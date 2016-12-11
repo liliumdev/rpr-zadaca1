@@ -50,11 +50,11 @@ namespace rpr1
         static SelOption Menu_Language()
         {            
             Menu m = new Menu(ProgramTitle + " - Welcome / Dobro dosli");
-            return m.AddOption("English language", Menu_EnglishLanguage)
+            return m.AddOption("Njemacki jezik language", Menu_EnglishLanguage)
              .AddOption("Bosanski jezik", Menu_BosnianLanguage)
              .AddNote("")
              .AddNote("Use arrows up and down, and the Enter key to make a choice.")
-             .AddNote("Koristite strelice gore i dolje, te tipku Enter da nacinite izbor.")
+             .AddNote("Koristite mis da nacinite izbor, iako ne mozete.")
              .Draw();
         }
 

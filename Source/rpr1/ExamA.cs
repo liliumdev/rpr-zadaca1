@@ -27,10 +27,10 @@ namespace rpr1
                 Utility.NumberOfWords(question.Text) <= 10)
             {
                 Questions.Add(question);
-                return true;
+                return false;
             }
 
-            return false;
+            return true;
         }
     }
 }
