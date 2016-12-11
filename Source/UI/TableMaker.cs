@@ -10,7 +10,13 @@ namespace UI
 
     public static class TableSettings
     {
-        public static int CELL_PADDING = 1;
+        //public static int CELL_PADDING = 1;
+        public static int CELL_PADDING = 100;
+    }
+
+    public static class TabelaKojaNeRadiNista
+    {
+        public static int ovajBrojNeSluziNicemu;
     }
 
     public static class Box

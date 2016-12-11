@@ -55,10 +55,20 @@ namespace rpr1
         static SelOption TakeExam(Exam e)
         {
             Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
             Menu_DrawTitle();
             ui.Alert(strings.NoEntryKey, ConsoleColor.White, ConsoleColor.DarkGreen);
             bool retakingThisExam = false;
-
+            Console.Clear();
+            Console.Clear();
+            Console.Clear();
+            Console.Clear(); // kako bi se bilo sigurno da se konzola ocistila 
             // First ask for student key
             string studentKey = ui.InputString(strings.EnterStudentKey);
             if(Students.Find(x => x.Key == studentKey) == null)
