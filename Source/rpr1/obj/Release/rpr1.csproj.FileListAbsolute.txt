@@ -1,0 +1,15 @@
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\rpr1.exe.config
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.csprojResolveAssemblyReference.cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.strings.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.strings.bs.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\rpr1.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\rpr1.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\bs\rpr1.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\UI.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Release\bs\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\bs\rpr1.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.exe
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Release\rpr1.pdb

@@ -1,0 +1,30 @@
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\bin\Debug\rpr1.exe.config
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\bin\Debug\rpr1.exe
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\bin\Debug\rpr1.pdb
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.exe
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.pdb
+c:\users\lilium\documents\visual studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.csprojResolveAssemblyReference.cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.strings.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Debug\rpr1.strings.bs.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Debug\bs\rpr1.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\obj\Debug\bs\rpr1.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Debug\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Debug\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Debug\UI.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\rpr1\bin\Debug\bs\UI.resources.dll
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\rpr1.exe.config
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.exe
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.pdb
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\rpr1.exe
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\rpr1.pdb
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\bs\rpr1.resources.dll
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\UI.dll
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\UI.resources.dll
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\UI.pdb
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\bin\Debug\bs\UI.resources.dll
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.csprojResolveAssemblyReference.cache
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.strings.resources
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.strings.bs.resources
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.csproj.GenerateResource.Cache
+C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\bs\rpr1.resources.dll

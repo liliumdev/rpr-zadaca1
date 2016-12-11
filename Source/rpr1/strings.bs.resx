@@ -1,0 +1,297 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<root>
+  <!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <data name="AlreadyTookExam" xml:space="preserve">
+    <value>Vec ste polagali ovaj ispit! Da li ga zelite ponoviti?</value>
+  </data>
+  <data name="BestAnswered" xml:space="preserve">
+    <value>Najbolje odgoreno pitanje</value>
+  </data>
+  <data name="ChooseOption" xml:space="preserve">
+    <value>Izaberite opciju</value>
+  </data>
+  <data name="CorrectAnswer" xml:space="preserve">
+    <value>Tacan odgovor je broj #</value>
+  </data>
+  <data name="CorrectAnswer2" xml:space="preserve">
+    <value>Drugi tacan odgovor je broj #</value>
+  </data>
+  <data name="CorrectAnswerMustBe" xml:space="preserve">
+    <value>Tacan odgovor mora biti izmedju 1 i {0} !</value>
+  </data>
+  <data name="CorrectFillInAnswer" xml:space="preserve">
+    <value>Tacan odgovor koji se dopunjava</value>
+  </data>
+  <data name="EnterStudentKey" xml:space="preserve">
+    <value>Unesite kljuc za prijavu</value>
+  </data>
+  <data name="EnterYourAnswer" xml:space="preserve">
+    <value>Unesite odgovor</value>
+  </data>
+  <data name="ExamAdded" xml:space="preserve">
+    <value>Ispit uspjesno kreiran!</value>
+  </data>
+  <data name="ExamExists" xml:space="preserve">
+    <value>Ispit sa ovim kljucem vec postoji!</value>
+  </data>
+  <data name="ExamKey" xml:space="preserve">
+    <value>Kljuc ispita</value>
+  </data>
+  <data name="ExamNoB" xml:space="preserve">
+    <value>Prvo morate napraviti ispit tipa B sa ovim kljucem!</value>
+  </data>
+  <data name="FailedExam" xml:space="preserve">
+    <value>Zao nam je! Niste polozili ispit jer ste dva pitanja uzastopno netacno odgovorili.</value>
+  </data>
+  <data name="FailedExamDetails" xml:space="preserve">
+    <value>Zao nam je! Niste polozili. Da li zelite vidjeti detaljne rezultate?</value>
+  </data>
+  <data name="FirstTakeB" xml:space="preserve">
+    <value>Prvo morate poloziti tip B ovog ispita!</value>
+  </data>
+  <data name="GivenAnswer" xml:space="preserve">
+    <value>Ponudjeni odgovor #</value>
+  </data>
+  <data name="LessThan26" xml:space="preserve">
+    <value>Morate biti mladji od 26 godina da polazete ispit!</value>
+  </data>
+  <data name="MenuBack" xml:space="preserve">
+    <value>Nazad</value>
+  </data>
+  <data name="MenuExit" xml:space="preserve">
+    <value>Izlaz</value>
+  </data>
+  <data name="MenuNoteChooseSubinterface" xml:space="preserve">
+    <value>Izaberite interfejs za voditelja ili studenta:</value>
+  </data>
+  <data name="MenuOptionCreateNewExamA" xml:space="preserve">
+    <value>Napravi novi ispit tipa A</value>
+  </data>
+  <data name="MenuOptionCreateNewExamB" xml:space="preserve">
+    <value>Napravi novi ispit tipa B</value>
+  </data>
+  <data name="MenuOptionLoadData" xml:space="preserve">
+    <value>Ucitaj podatke o ispitima i studentima iz fajla</value>
+  </data>
+  <data name="MenuOptionProfessor" xml:space="preserve">
+    <value>Voditelj</value>
+  </data>
+  <data name="MenuOptionSaveData" xml:space="preserve">
+    <value>Snimi podatke o ispitima i studentima u fajl</value>
+  </data>
+  <data name="MenuOptionStudent" xml:space="preserve">
+    <value>Student</value>
+  </data>
+  <data name="MenuOptionStudentList" xml:space="preserve">
+    <value>Lista studenata</value>
+  </data>
+  <data name="MenuOptionTakeExams" xml:space="preserve">
+    <value>Polazi ispit</value>
+  </data>
+  <data name="MenuOptionViewExamQuestions" xml:space="preserve">
+    <value>Pogledaj ispitna pitanja</value>
+  </data>
+  <data name="MenuOptionViewExamResults" xml:space="preserve">
+    <value>Pogledaj rezultate ispita</value>
+  </data>
+  <data name="MenuOptionViewExams" xml:space="preserve">
+    <value>Pogledaj listu ispita</value>
+  </data>
+  <data name="MenuOptionViewGlobalStats" xml:space="preserve">
+    <value>Pogledaj statistiku</value>
+  </data>
+  <data name="MenuOptionViewStudentExams" xml:space="preserve">
+    <value>Pogledaj polagane ispite</value>
+  </data>
+  <data name="NoEntryKey" xml:space="preserve">
+    <value>Ako nemate kljuc za prijavu, upisite sta bilo.</value>
+  </data>
+  <data name="NoInputError" xml:space="preserve">
+    <value>Niste nista unijeli! Pokusajte ponovo.</value>
+  </data>
+  <data name="NoOneTookExam" xml:space="preserve">
+    <value>Nije niko polagao ovaj ispit</value>
+  </data>
+  <data name="NoSuchKey" xml:space="preserve">
+    <value>Ne postoji student sa tim kljucem</value>
+  </data>
+  <data name="NotADate" xml:space="preserve">
+    <value>Nepravilan format datuma!</value>
+  </data>
+  <data name="NotANumberOrNotValidated" xml:space="preserve">
+    <value>Niste unijeli broj ili broj ne zadovoljava odredjene parametre!</value>
+  </data>
+  <data name="NotAStringOrNotValidated" xml:space="preserve">
+    <value>Niste unijeli string ili string ne zadovoljava odredjene parametre!</value>
+  </data>
+  <data name="NotPassedWord" xml:space="preserve">
+    <value>Nije polozen</value>
+  </data>
+  <data name="PassedExam" xml:space="preserve">
+    <value>Cestitamo! Polozili ste ispit. Da li zelite vidjeti detaljne rezultate?</value>
+  </data>
+  <data name="PassedWithN" xml:space="preserve">
+    <value>Polozeno sa {0} tacnih odgovora</value>
+  </data>
+  <data name="PassedWord" xml:space="preserve">
+    <value>Polozen</value>
+  </data>
+  <data name="PercentagePerYear" xml:space="preserve">
+    <value>Udio razlicith studijskih godina u ukupnom broju polozenih ispita</value>
+  </data>
+  <data name="Question" xml:space="preserve">
+    <value>Pitanje #</value>
+  </data>
+  <data name="QuestionNotValidated" xml:space="preserve">
+    <value>Pitanje je ili duze od 10 rijeci ili vec postoji slicno pitanje u ispitu!</value>
+  </data>
+  <data name="QuestionNotValidatedA" xml:space="preserve">
+    <value>Pitanje je ili duze od rijeci ili vec postoji slicno pitanje u ispitu ili pak postoji isto pitanje u ispitu tipa B!</value>
+  </data>
+  <data name="StudentBirthday" xml:space="preserve">
+    <value>Datum rodjenja (u dd.mm.yyyy formatu)</value>
+  </data>
+  <data name="StudentCreated" xml:space="preserve">
+    <value>Registracija uspjesna. Vas kljuc je {0}. Molimo zapisite ga negdje!</value>
+  </data>
+  <data name="StudentFaculty" xml:space="preserve">
+    <value>Naziv fakulteta</value>
+  </data>
+  <data name="StudentFirstName" xml:space="preserve">
+    <value>Ime</value>
+  </data>
+  <data name="StudentLastName" xml:space="preserve">
+    <value>Prezime</value>
+  </data>
+  <data name="StudentStudyYear" xml:space="preserve">
+    <value>Godina studija</value>
+  </data>
+  <data name="TotalPassed" xml:space="preserve">
+    <value>Polozilo ukupno</value>
+  </data>
+  <data name="WantToRegister" xml:space="preserve">
+    <value>Taj kljuc za prijavu ne postoji. Da li se zelite registrovati kao novi student da bi dobili svoj kljuc za prijavu?</value>
+  </data>
+  <data name="WorstAnswered" xml:space="preserve">
+    <value>Najlosije odgovoreno pitanje</value>
+  </data>
+  <data name="YearWord" xml:space="preserve">
+    <value>godina</value>
+  </data>
+</root>

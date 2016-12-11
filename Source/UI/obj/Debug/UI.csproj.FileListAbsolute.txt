@@ -1,0 +1,9 @@
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Debug\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Debug\UI.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Debug\bs\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\UI.strings.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\UI.strings.bs.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\UI.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\bs\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Debug\UI.pdb

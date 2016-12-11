@@ -1,0 +1,10 @@
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Release\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Release\UI.pdb
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\bin\Release\bs\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.csprojResolveAssemblyReference.cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.strings.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.strings.bs.resources
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.csproj.GenerateResource.Cache
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\bs\UI.resources.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.dll
+C:\Users\Lilium\Documents\Visual Studio 2015\Projects\rpr1\UI\obj\Release\UI.pdb
