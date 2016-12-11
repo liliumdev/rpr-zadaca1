@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Globalization;
 using System.Linq;
@@ -232,6 +232,12 @@ namespace UI
         /// <returns></returns>
         public bool Alert(string message, ConsoleColor foregroundColor = ConsoleColor.White, ConsoleColor backgroundColor = ConsoleColor.Red, bool yesNo = false)
         {
+            int i = 0;
+            for(int j = 0; j <= 10; j++)
+            {
+                i += 2;
+            }
+            
             int oldX = Console.CursorLeft, oldY = Console.CursorTop;
 
             short left = 10, top = (short)oldY, w = (short)(Console.BufferWidth - 20);
