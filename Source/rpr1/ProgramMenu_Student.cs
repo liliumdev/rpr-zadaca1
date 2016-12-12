@@ -29,7 +29,7 @@ namespace rpr1
             if (Students.Find(x => x.Key == studentKey) == null)
             {
                 ui.Alert(strings.NoSuchKey, ConsoleColor.White, ConsoleColor.DarkGreen);
-                return Menu_Student();
+               // return Menu_Student();
             }
 
             Menu m = new Menu(ProgramTitle);
@@ -40,7 +40,7 @@ namespace rpr1
                     if (tuple.Item1 == studentKey)
                     {
                         m.AddOption(
-                            tuple.Item1 + " : " + e.Key + " - " + (e is ExamB ? "B" : "A") + " / " + 
+                            tuple.Item1 + " : " + e.Key + " - " + (e is ExamB ? "A" : "B") + " / " + 
                             (tuple.Item2.Passed ? strings.PassedWord : strings.NotPassedWord), 
                             () =>
                             {
