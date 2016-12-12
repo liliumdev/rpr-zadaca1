@@ -7,7 +7,7 @@ using UI;
 
 namespace rpr1
 {
-    public partial class Program
+    public class Program
     {
         static SelOption Menu_CreateNewExamA()
         {
@@ -20,11 +20,12 @@ namespace rpr1
                 key = ui.InputString(strings.ExamKey);
 
                 bool hasB = false;
-                for (int k = 0; k < Exams.Count; k++)
+                for (int k = 0; k <= Exams.Count; k++)
                 {
                     if (Exams[k].Key == key && Exams[k] is ExamA)
                     {
                         ui.Alert(strings.ExamExists);
+                        Console.Clear();
                         return Menu_Professor();
                     }
                     else if (Exams[k].Key == key && Exams[k] is ExamB)

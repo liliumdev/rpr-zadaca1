@@ -10,7 +10,7 @@ namespace rpr1
     public class ExamA : Exam, IExamQuestionAdder
     {
         public ExamB PrerequisiteExam = null;
-
+        
         public ExamA(string key, ExamB prerequisite) : base(key)
         {
             PrerequisiteExam = prerequisite;

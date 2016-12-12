@@ -60,8 +60,8 @@ namespace rpr1
 
         static void Menu_DrawTitle()
         {
-            Table t = new Table();
-            t.AddRow(new object[] { ProgramTitle }).SetCellColor(0, ConsoleColor.White, ConsoleColor.Blue);
+            int t;
+            t.AddRow(new object[] { ProgramTitle }).SetCellColor(0, ConsoleColor.Red, ConsoleColor.Blue);
             t.Draw();
         }
     }

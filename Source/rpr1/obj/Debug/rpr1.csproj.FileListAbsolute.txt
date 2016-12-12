@@ -28,3 +28,6 @@ C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.strings.re
 C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.strings.bs.resources
 C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\rpr1.csproj.GenerateResource.Cache
 C:\Users\Lilium\Desktop\RPR-Zadaca-1-16963\Source\rpr1\obj\Debug\bs\rpr1.resources.dll
+C:\Users\ramic\Desktop\ZadatakSoka\rpr-zadaca1\Source\rpr1\bin\Debug\rpr1.exe.config
+C:\Users\ramic\Desktop\ZadatakSoka\rpr-zadaca1\Source\rpr1\obj\Debug\rpr1.exe
+C:\Users\ramic\Desktop\ZadatakSoka\rpr-zadaca1\Source\rpr1\obj\Debug\rpr1.pdb
