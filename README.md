@@ -1,4 +1,4 @@
-There's some screentshots [in this document](https://github.com/liliumdev/rpr-zadaca1/blob/master/Dokumentacija.pdf)
+There's some screenshots [in this document](https://github.com/liliumdev/rpr-zadaca1/blob/master/Dokumentacija.pdf)
 
 ---
 
